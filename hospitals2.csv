@@ -1,4 +1,4 @@
- RMC Stringfellow Memorial Hospital ,125,Anniston,AL
+RMC Stringfellow Memorial Hospital,125,Anniston,AL
 Andalusia Health,83,Andalusia,AL
 Athens-Limestone Hospital,66,Athens,AL
 Atmore Community Hospital,49,Atmore,AL
@@ -115,7 +115,7 @@ Thomasville Regional Medical Center,0,Thomasville,AL
 Troy Regional Medical Center,59,Troy,AL
 Tuscaloosa VA Medical Center,0,Tuscaloosa,AL
 UAB Callahan Eye Hospital,12,Birmingham,AL
-UAB Hospital,242,Birmingham,AL
+UAB Hospital,1242,Birmingham,AL
 UAB Hospital - Highlands,73,Birmingham,AL
 Unity Psychiatric Care Hunstville,16,Huntsville,AL
 USA Children's and Women's Hospital,248,Mobile,AL
@@ -280,13 +280,13 @@ White Mountain Regional Medical Center,21,Springerville,AZ
 Whiteriver Indian Hospital,40,Whiteriver,AZ
 Wickenburg Community Hospital,19,Wickenburg,AZ
 Windhaven Psychiatric Hospital,16,Prescott Valley,AZ
-Yavapai Regional Medical Center East ,56,Prescott Valley,AZ
-Yavapai Regional Medical Center West,206,Prescott,AZ
+Yavapai Regional Medical Center - East ,56,Prescott Valley,AZ
+Yavapai Regional Medical Center - West,206,Prescott,AZ
 Yuma Regional Medical Center,406,Yuma,AZ
 Yuma Rehabilitation Hospital,51,Yuma,AZ
-Izard County Medical Center,25,Calico Rock,AR
-Northwest Health Physicians' Specialty Hospital,20,Fayetteville,AR
-Unity Health - Harris Medical Center,121,Newport,AR
+ Izard County Medical Center,25,Calico Rock,AR
+ Northwest Health Physicians' Specialty Hospital,20,Fayetteville,AR
+ Unity Health - Harris Medical Center,121,Newport,AR
 Advanced Care Hospital of White County ,27,Searcy,AR
 Arkansas Children's Hospital,336,Little Rock,AR
 Arkansas Children's Northwest,24,Springdale,AR
@@ -629,7 +629,7 @@ Marian Regional Medical Center,388,Santa Maria,CA
 Marina Del Rey Hospital,103,Marina Del Rey,CA
 Mark Twain Medical Center,25,San Andreas,CA
 Marshall Medical Center,125,Placerville,CA
-Martin Luther King, Jr. Community Hospital ,131,Los Angeles,CA
+Martin Luther King Jr. Community Hospital ,131,Los Angeles,CA
 Mayers Memorial Hospital,115,Fall River Mills,CA
 Mee Memorial Hospital,61,King City,CA
 Memorial Hospital Los Banos,28,Los Banos,CA
@@ -759,7 +759,7 @@ San Mateo Medical Center,447,San Mateo,CA
 San Rafael Medical Center,116,San Rafael,CA
 San Ramon Regional Medical Center,123,San Ramon,CA
 Santa Barbara Cottage Hospital,380,Santa Barbara,CA
-Santa Barbara County Alcohol, Drug and Mental Health Services,16,Santa Barbara,CA
+Santa Barbara County Alcohol Drug and Mental Health Services,16,Santa Barbara,CA
 Santa Clara Medical Center,327,Santa Clara,CA
 Santa Clara Valley Medical Center,974,San Jose,CA
 Santa Cruz County Psychiatric Health Facility,16,Santa Cruz,CA
@@ -1033,14 +1033,14 @@ Wellspring ,0,Bethlehem,CT
 Whiting Forensic Hospital,0,Middletown,CT
 Windham Hospital,40,Willimantic,CT
 Yale-New Haven Children's Hospital,0,New Haven,CT
-Yale-New Haven Hospital,1,549,New Haven,CT
+Yale-New Haven Hospital,1549,New Haven,CT
 Yale-New Haven Hospital Saint Raphael Campus,573,New Haven,CT
 Yale-New Haven Psychiatric Hospital,0,New Haven,CT
 Alfred I. duPont Hospital for Children & Nemours Children's Clinic,208,Wilmington,DE
-Bayhealth Hospital, Kent Campus,281,Dover,DE
-Bayhealth Hospital, Sussex Campus,156,Milford,DE
+Bayhealth Hospital Kent Campus,281,Dover,DE
+Bayhealth Hospital Sussex Campus,156,Milford,DE
 Beebe Healthcare,195,Lewes,DE
-Christiana Hospital,1,193,Newark,DE
+Christiana Hospital,1193,Newark,DE
 Delaware Psychiatric Center,112,New Castle,DE
 Dover Behavioral Health System,99,Dover,DE
 Encompass Health Rehabilitation Hospital of Middletown,37,Middletown,DE
@@ -1075,7 +1075,7 @@ AdventHealth Lake Wales,131,Lake Wales,FL
 AdventHealth New Smyrna Beach,109,New Smyrna Beach,FL
 AdventHealth North Pinellas,168,Tarpon Springs,FL
 AdventHealth Ocala,425,Ocala,FL
-AdventHealth Orlando,2,818,Orlando,FL
+AdventHealth Orlando,2818,Orlando,FL
 AdventHealth Palm Coast,99,Palm Coast,FL
 AdventHealth Pepin Heart Institute,0,Tampa,FL
 AdventHealth Sebring,180,Sebring,FL
@@ -1156,7 +1156,7 @@ Encompass Health Rehabilitation Hospital of Spring Hill,80,Brooksville,FL
 Encompass Health Rehabilitation Hospital of Sunrise,126,Sunrise,FL
 Encompass Health Rehabilitation Hospital of Tallahassee,76,Tallahassee,FL
 Encompass Health Rehabilitation Hospital of Treasure Coast,80,Vero Beach,FL
-Encompass Health Rehabilitation Hospital, an affiliate of Martin Health,64,Stuart,FL
+Encompass Health Rehabilitation Hospital Martin Health,64,Stuart,FL
 Englewood Community Hospital,100,Englewood,FL
 Fawcett Memorial Hospital,253,Port Charlotte,FL
 Fishermen's Community Hospital,4,Marathon,FL
@@ -1187,7 +1187,7 @@ Holy Cross Health,367,Fort Lauderdale,FL
 Homestead Hospital,147,Homestead,FL
 Jackson Behavioral Health Hospital,0,Miami,FL
 Jackson Hospital,66,Marianna,FL
-Jackson Memorial Hospital,1,828,Miami,FL
+Jackson Memorial Hospital,1828,Miami,FL
 Jackson North Medical Center,0,North Miami Beach,FL
 Jackson South Medical Center,192,Miami,FL
 James A. Haley Veterans' Hospital,0,Tampa,FL
@@ -1239,7 +1239,7 @@ Memorial Hospital Miramar,178,Miramar,FL
 Memorial Hospital of Tampa,384,Tampa,FL
 Memorial Hospital Pembroke,301,Pembroke Pines,FL
 Memorial Hospital West,486,Pembroke Pines,FL
-Memorial Regional Hospital,1,013,Hollywood,FL
+Memorial Regional Hospital,1013,Hollywood,FL
 Memorial Regional Hospital South,0,Hollywood,FL
 Mercy Hospital,343,Miami,FL
 Miami Jewish Health Systems,454,Miami,FL
@@ -1270,7 +1270,7 @@ Orlando Health - Health Central Hospital,211,Ocoee,FL
 Orlando Health Arnold Palmer Hospital for Children,0,Orlando,FL
 Orlando Health Horizon West Hospital,0,Winter Garden,FL
 Orlando Health St. Cloud Hospital,84,Saint Cloud,FL
-Orlando Regional Medical Center,1,622,Orlando,FL
+Orlando Regional Medical Center,1622,Orlando,FL
 Orlando VA Medical Center,0,Orlando,FL
 Osceola Regional Medical Center,398,Kissimmee,FL
 Oviedo Medical Center,64,Oviedo,FL
@@ -1304,7 +1304,7 @@ Saint Catherine's Rehabilitation Hospital,272,North Miami,FL
 Saint Catherine's West Rehabilitation Hospital,0,Hialeah Gardens,FL
 Saint John's Nursing Center,207,Lauderdale Lakes,FL
 Saint Joseph's Children's Hospital of Tampa,0,Tampa,FL
-Saint Joseph's Hospital,1,062,Tampa,FL
+Saint Joseph's Hospital,1062,Tampa,FL
 Saint Joseph's Hospital - North,0,Lutz,FL
 Saint Joseph's Hospital - South,0,Riverview,FL
 Saint Joseph's Women's Hospital,0,Tampa,FL
@@ -1354,7 +1354,7 @@ UF Health Jacksonville,590,Jacksonville,FL
 UF Health Leesburg,329,Leesburg,FL
 UF Health Rehab Hospital,54,Gainesville,FL
 UF Health Shands Children's Hospital,0,Gainesville,FL
-UF Health Shands Florida,1,044,Gainesville,FL
+UF Health Shands Florida,1044,Gainesville,FL
 UF Health Shands Psychiatric Hospital,0,Gainesville,FL
 UF Health Shands Rehab Hospital,0,Gainesville,FL
 UF Health The Villages Hospital,307,The Villages,FL
@@ -1704,7 +1704,7 @@ Community Hospital of Staunton,25,Staunton,IL
 Crawford Memorial Hospital,60,Robinson,IL
 Crossroads Community Hospital,47,Mount Vernon,IL
 Decatur Memorial Hospital,246,Decatur,IL
-Edward Hines, Jr. VA Hospital,0,Hines,IL
+Edward Hines Jr. VA Hospital,0,Hines,IL
 Edward Hospital,294,Naperville,IL
 Elgin Mental Health Center,383,Elgin,IL
 Elmhurst Hospital ,258,Elmhurst,IL
@@ -1719,7 +1719,7 @@ Galesburg Cottage Hospital,112,Galesburg,IL
 Garfield Park Behavioral Hospital,0,Chicago,IL
 Gateway Regional Medical Center,305,Granite City,IL
 Genesis Medical Center Silvis,145,Silvis,IL
-Genesis Medical Center, Aledo,22,Aledo,IL
+Genesis Medical Center Aledo,22,Aledo,IL
 Gibson Area Hospital & Health Services,30,Gibson City,IL
 Glenbrook Hospital,0,Glenview,IL
 Graham Hospital,81,Canton,IL
@@ -1752,7 +1752,7 @@ Javon Bea Hospital - Rockton,292,Rockford,IL
 Javon Bea Hospital-Riverside,0,Rockford,IL
 Jersey Community Hospital,46,Jerseyville,IL
 Jesse Brown VA Medical Center,0,Chicago,IL
-John H. Stroger, Jr. Hospital of Cook County,448,Chicago,IL
+John H. Stroger Jr. Hospital of Cook County,448,Chicago,IL
 Katherine Shaw Bethea Hospital,80,Dixon,IL
 Kindred - Chicago - Lakeshore,0,Chicago,IL
 Kindred Hospital - Chicago (North Campus),0,Chicago,IL
@@ -1882,7 +1882,7 @@ West Suburban Medical Center,174,Oak Park,IL
 Adams Memorial Hospital,25,Decatur,IN
 AMG Specialty Hospital - Muncie,41,Muncie,IN
 AMG Specialty Hospital Central Indiana - Hancock,0,Greenfield,IN
-Ascension Medical Group, St. Vincent Heart Care,107,Carmel,IN
+Ascension Medical Group St. Vincent Heart Care,107,Carmel,IN
 Ascension Saint Vincent Carmel,153,Carmel,IN
 Ascension Saint Vincent Clay,25,Brazil,IN
 Ascension Saint Vincent Evansville,376,Evansville,IN
@@ -1924,7 +1924,7 @@ Community Hospital of Bremen,24,Bremen,IN
 Community Hospital South,169,Indianapolis,IN
 Community Howard Regional Health,112,Kokomo,IN
 Community Howard Specialty Hospital ,30,Kokomo,IN
-Community Mental Health Center, Inc.,16,Lawrenceburg,IN
+Community Mental Health Center Inc.,16,Lawrenceburg,IN
 Community Rehabilitation Hospital North,60,Indianapolis,IN
 Community Rehabilitation Hospital South,44,Greenwood,IN
 Community Stroke & Rehabilitation Center,30,Crown Point,IN
@@ -1961,7 +1961,7 @@ Franciscan Health Rensselaer,25,Rensselaer,IN
 Good Samaritan Hospital,144,Vincennes,IN
 Goshen Hospital,107,Goshen,IN
 Greene County General Hospital,25,Linton,IN
-Hamilton Center, Inc.,16,Terre Haute,IN
+Hamilton Center Inc.,16,Terre Haute,IN
 Hancock Regional Hospital,71,Greenfield,IN
 Harrison County Hospital,25,Corydon,IN
 Harsha Behavioral Center,81,Terre Haute,IN
@@ -1974,7 +1974,7 @@ IU Health Bedford Hospital ,25,Bedford,IN
 IU Health Blackford Hospital ,15,Hartford City,IN
 IU Health Bloomington Hospital ,278,Bloomington,IN
 IU Health Jay Hospital ,35,Portland,IN
-IU Health Methodist University,1,270,Indianapolis,IN
+IU Health Methodist University,1270,Indianapolis,IN
 IU Health North Hospital ,149,Carmel,IN
 IU Health Paoli Hospital ,24,Paoli,IN
 IU Health Saxony Hospital ,0,Fishers,IN
@@ -2103,9 +2103,9 @@ Floyd County Medical Center,25,Charles City,IA
 Floyd Valley Hospital,25,Le Mars,IA
 Fort Madison Community Hospital,50,Fort Madison,IA
 Franklin General Hospital,77,Hampton,IA
-Genesis Medical Center, Davenport, East Rusholme Street,345,Davenport,IA
-Genesis Medical Center, DeWitt,13,DeWitt,IA
-Genesis Medical Center, West Central Park,0,Davenport,IA
+Genesis Medical Center Davenport East Rusholme Street,345,Davenport,IA
+Genesis Medical Center DeWitt,13,DeWitt,IA
+Genesis Medical Center West Central Park,0,Davenport,IA
 George C. Grape Community Hospital,25,Hamburg,IA
 Great River Medical Center,307,West Burlington,IA
 Greater Regional Medical Center,25,Creston,IA
@@ -2420,7 +2420,7 @@ King's Daughters Medical Center,465,Ashland,KY
 Lake Cumberland Regional Hospital,265,Somerset,KY
 Lexington VA Medical Center-Cooper Division,0,Lexington,KY
 Lincoln Trail Behavioral Health System,118,Radcliff,KY
-Livingston Hospital and Healthcare Services, Inc.,25,Salem,KY
+Livingston Hospital and Healthcare Services Inc.,25,Salem,KY
 Logan Memorial Hospital,75,Russellville,KY
 Louisville VA Medical Center,0,Louisville,KY
 Marshall County Hospital,25,Benton,KY
@@ -2437,7 +2437,7 @@ Murray-Calloway County Hospital,277,Murray,KY
 Norton Audubon Hospital,0,Louisville,KY
 Norton Brownsboro Hospital,0,Louisville,KY
 Norton Children's Hospital,0,Louisville,KY
-Norton Hospital,1,454,Louisville,KY
+Norton Hospital,1454,Louisville,KY
 Norton Women's & Children's Hospital,0,Louisville,KY
 Ohio County Hospital,25,Hartford,KY
 Owensboro Health Muhlenberg Community Hospital,90,Greenville,KY
@@ -2623,7 +2623,7 @@ Ochsner Lafayette General Orthopaedic Hospital,0,Lafayette,LA
 Ochsner Lafayette General Surgical Hospital,10,Lafayette,LA
 Ochsner LSU Health Shreveport - Academic Medical Center,396,Shreveport,LA
 Ochsner LSU Health Shreveport - Monroe Medical Center,117,Monroe,LA
-Ochsner Medical Center ,1,023,New Orleans,LA
+Ochsner Medical Center ,1023,New Orleans,LA
 Ochsner Medical Center - Baton Rouge,164,Baton Rouge,LA
 Ochsner Medical Center - Kenner,115,Kenner,LA
 Ochsner Medical Center - North Shore,150,Slidell,LA
@@ -2913,7 +2913,7 @@ Lowell General - Saints Campus,157,Lowell,MA
 Lowell General Hospital - Main Campus,407,Lowell,MA
 Martha's Vineyard Hospital,25,Oak Bluffs,MA
 Massachusetts Eye and Ear Infirmary,41,Boston,MA
-Massachusetts General Hospital,1,017,Boston,MA
+Massachusetts General Hospital,1017,Boston,MA
 McLean Hospital Belmont Campus,219,Belmont,MA
 Melrose-Wakefield Hospital,0,Melrose,MA
 Mercy Medical Center,317,Springfield,MA
@@ -2977,9 +2977,9 @@ Ascension Borgess-Lee Hospital,25,Dowagiac,MI
 Ascension Borgess-Pipp Hospital,43,Plainwell,MI
 Ascension Brighton Center for Recovery,99,Brighton,MI
 Ascension Genesys Hospital,370,Grand Blanc,MI
-Ascension Macomb - Oakland Hospital, Warren Campus,499,Warren,MI
-Ascension Macomb-Oakland Hospital, Madison Heights Campus,159,Madison Heights,MI
-Ascension Providence Hospital - Southfield Campus,563,Southfield,MI
+Ascension Macomb Oakland Hospital Warren Campus,499,Warren,MI
+Ascension Macomb Oakland Hospital Madison Heights Campus,159,Madison Heights,MI
+Ascension Providence Hospital Southfield Campus,563,Southfield,MI
 Ascension Providence Hospital Novi Campus,0,Novi,MI
 Ascension Providence Rochester Hospital,224,Rochester,MI
 Ascension River District Hospital,68,East China Township,MI
@@ -2992,14 +2992,14 @@ Aspirus Keweenaw Hospital,25,Laurium,MI
 Aspirus Ontonagon Hospital,64,Ontonagon,MI
 Baraga County Memorial Hospital,24,L'Anse,MI
 Battle Creek VA Medical Center,0,Battle Creek,MI
-Beaumont Hospital,  Dearborn,567,Dearborn,MI
-Beaumont Hospital,  Farmington Hills,301,Farmington Hills,MI
-Beaumont Hospital, Grosse Pointe,266,Grosse Pointe,MI
-Beaumont Hospital, Royal Oak,1,098,Royal Oak,MI
-Beaumont Hospital, Taylor,180,Taylor,MI
-Beaumont Hospital, Trenton,193,Trenton,MI
-Beaumont Hospital, Troy,520,Troy,MI
-Beaumont Hospital, Wayne,86,Wayne,MI
+Beaumont Hospital Dearborn,567,Dearborn,MI
+Beaumont Hospital Farmington Hills,301,Farmington Hills,MI
+Beaumont Hospital Grosse Pointe,266,Grosse Pointe,MI
+Beaumont Hospital Royal Oak,1,098,Royal Oak,MI
+Beaumont Hospital Taylor,180,Taylor,MI
+Beaumont Hospital Trenton,193,Trenton,MI
+Beaumont Hospital Troy,520,Troy,MI
+Beaumont Hospital Wayne,86,Wayne,MI
 Behavioral Center of Michigan,42,Warren,MI
 Bronson Battle Creek,183,Battle Creek,MI
 Bronson LakeView Hospital,35,Paw Paw,MI
@@ -3050,8 +3050,8 @@ Kalkaska Memorial Health Center,110,Kalkaska,MI
 Karmanos Cancer Institute,123,Detroit,MI
 Lake Huron Medical Center,164,Port Huron,MI
 Lakeland Hospital Niles,0,Niles,MI
-Lakeland Hospital, Watervliet,44,Watervliet,MI
-Lakeland Medical Center, Saint Joseph,290,Saint Joseph,MI
+Lakeland Hospital Watervliet,44,Watervliet,MI
+Lakeland Medical Center Saint Joseph,290,Saint Joseph,MI
 Mackinac Straits Hospital & Health Center,63,Saint Ignace,MI
 Marlette Regional Hospital,64,Marlette,MI
 Mary Free Bed at Sparrow,0,Lansing,MI
@@ -3123,7 +3123,7 @@ Sparrow Hospital,632,Lansing,MI
 Sparrow Ionia Hospital,22,Ionia,MI
 Sparrow Specialty Hospital,30,Lansing,MI
 Spectrum Health Big Rapids Hospital,49,Big Rapids,MI
-Spectrum Health Butterworth Hospital,1,377,Grand Rapids,MI
+Spectrum Health Butterworth Hospital,1377,Grand Rapids,MI
 Spectrum Health Gerber Memorial Hospital ,25,Fremont,MI
 Spectrum Health Helen DeVos Children's Hospital,0,Grand Rapids,MI
 Spectrum Health Hospitals Blodgett Hospital,291,Grand Rapids,MI
@@ -3139,7 +3139,7 @@ Sturgis Hospital,49,Sturgis,MI
 Surgeons Choice Medical Center,71,Southfield,MI
 The Samaritan Center,55,Detroit,MI
 Three Rivers Health Medical Center,60,Three Rivers,MI
-University of Michigan Hospitals and Health Centers,1,007,Ann Arbor,MI
+University of Michigan Hospitals and Health Centers,1007,Ann Arbor,MI
 UP Health System - Bell ,25,Ishpeming,MI
 UP Health System Portage ,96,Hancock,MI
 UPHS  -  Marquette,222,Marquette,MI
@@ -3239,12 +3239,12 @@ Mayo Clinic Health System in New Prague,20,New Prague,MN
 Mayo Clinic Health System in Red Wing,50,Red Wing,MN
 Mayo Clinic Health System in St. James,25,Saint James,MN
 Mayo Clinic Health System in Waseca ,15,Waseca,MN
-Mayo Clinic Hospital , Saint Mary's Campus,1,318,Rochester,MN
-Mayo Clinic Hospital - Methodist Campus,300,Rochester,MN
+Mayo Clinic Hospital Saint Mary's Campus,1318,Rochester,MN
+Mayo Clinic Hospital Methodist Campus,300,Rochester,MN
 Mayo Eugenio Litta Children's Hospital,0,Rochester,MN
 Meeker Memorial Hospital ,33,Litchfield,MN
 Mercy Hospital,484,Coon Rapids,MN
-Mercy Hospital - Unity Campus,164,Fridley,MN
+Mercy Hospital Unity Campus,164,Fridley,MN
 Methodist Hospital,342,Saint Louis Park,MN
 Mille Lacs Hospital,85,Onamia,MN
 Minneapolis VA Medical Center,0,Minneapolis,MN
@@ -3331,7 +3331,7 @@ Delta Health-Northwest Regional,181,Clarksdale,MS
 Delta Regional Medical Center,215,Greenville,MS
 Diamond Grove Center,0,Louisville,MS
 East Mississippi State Hospital,0,Meridian,MS
-Encompass Health Rehabilitation Hospital, a partner of Memorial Hospital at Gulfport,33,Gulfport,MS
+Encompass Health Rehabilitation Hospital Gulfport,33,Gulfport,MS
 Field Memorial Community Hospital ,16,Centreville,MS
 Forrest General Hospital,473,Hattiesburg,MS
 Franklin County Memorial Hospital,24,Meadville,MS
@@ -3422,7 +3422,7 @@ Whitfield Medical Surgical Hospital,32,Whitfield,MS
 Winfred L Wiser Hospital for Women and Infants,0,Jackson ,MS
 Winston Medical Center,144,Louisville,MS
 Yalobusha General Hospital,26,Water Valley,MS
-Barnes-Jewish Hospital,1,331,Saint Louis,MO
+Barnes-Jewish Hospital,1331,Saint Louis,MO
 Barnes-Jewish Hospital Psychiatric Support Center,25,Saint Louis,MO
 Barnes-Jewish Saint Peters Hospital,113,Saint Peters,MO
 Barnes-Jewish West County Hospital,68,Creve Coeur,MO
@@ -3782,7 +3782,7 @@ Dignity Health - St. Rose Dominican Siena Campus,326,Henderson,NV
 Dignity Health Rehabilitation Hospital,60,Henderson,NV
 Dignity Health Saint Rose Dominican North Las Vegas Campus,32,North Las Vegas,NV
 Dignity Health St. Rose Dominican's Blue Diamond Campus,0,Las Vegas,NV
-Dignity Health-Saint Rose Dominican, West Flamingo Campus,0,Las Vegas,NV
+Dignity Health Saint Rose Dominican West Flamingo Campus,0,Las Vegas,NV
 Dignity Health-St. Rose Dominican San Martin Campus,136,Las Vegas,NV
 Encompass Health Rehabilitation Hospital of Henderson,90,Henderson,NV
 Encompass Health Rehabilitation Hospital of Las Vegas,79,Las Vegas,NV
@@ -3878,7 +3878,7 @@ AtlantiCare Regional Medical Center -Atlantic City Campus,540,Atlantic City,NJ
 Bacharach Institute for Rehabilitation,82,Pomona,NJ
 Bayonne Medical Center,163,Bayonne,NJ
 Bayshore Medical Center,174,Holmdel,NJ
-Bergen New Bridge Medical Center,1,020,Paramus,NJ
+Bergen New Bridge Medical Center,1020,Paramus,NJ
 Buttonwood Behavioral Health Hospital,234,Pemberton,NJ
 Cape Regional Medical Center,149,Cape May Court House,NJ
 Capital Health Medical Center - Hopewell,161,Pennington,NJ
@@ -3931,7 +3931,7 @@ Kessler Institute for Rehabilitation Saddle Brook Campus,0,Saddle Brook,NJ
 Kindred Hospital New Jersey - Morris County,117,Dover,NJ
 Kindred Hospital New Jersey - Rahway,0,Rahway,NJ
 Kindred Hospital New Jersey - Wayne,0,Wayne,NJ
-LTACH - CareOne at Hackensack University Medical Center, Pascack Valley,0,Westwood,NJ
+LTACH CareOne at Hackensack University Medical Center Pascack Valley,0,Westwood,NJ
 LTACH - CareOne at Saint Peter's University Hospital,76,New Brunswick,NJ
 LTACH - CareOne at Trinitas Regional Medical Center,0,Elizabeth,NJ
 Matheny Hospital,101,Peapack,NJ
@@ -4072,12 +4072,12 @@ Bertrand Chaffee Hospital,103,Springville,NY
 Blythedale Children's Hospital,0,Valhalla,NY
 Bon Secours Community Hospital,168,Port Jervis,NY
 Bronx Psychiatric Center,156,Bronx,NY
-BronxCare Dr. Martin Luther King, Jr. Health Center,558,Bronx,NY
+BronxCare Dr. Martin Luther King Jr. Health Center,558,Bronx,NY
 BronxCare Special Care Center,0,Bronx,NY
-Brooks- TLC Hospital System,65,Dunkirk,NY
+Brooks TLC Hospital System,65,Dunkirk,NY
 Brunswick Hospital Center,124,Amityville,NY
 Brylin Hospitals,88,Buffalo,NY
-Buffalo General Medical Center,1,068,Buffalo,NY
+Buffalo General Medical Center,1068,Buffalo,NY
 Buffalo Psychiatric Center,159,Buffalo,NY
 Buffalo VA Medical Center,0,Buffalo,NY
 Burdett Birth Center,0,Troy,NY
@@ -4154,7 +4154,7 @@ Lenox Hill Hospital,444,New York,NY
 Lewis County Health System,185,Lowville,NY
 Little Falls Hospital,25,Little Falls,NY
 Long Island Jewish Forest Hills Hospital,227,Forest Hills,NY
-Long Island Jewish Medical Center,1,401,New Hyde Park,NY
+Long Island Jewish Medical Center,1401,New Hyde Park,NY
 Long Island Jewish Valley Stream,337,Valley Stream,NY
 Maimonides Medical Center,711,Brooklyn,NY
 Manhattan Psychiatric Center,209,New York,NY
@@ -4169,7 +4169,7 @@ Midhudson Regional Hospital of Westchester Medical Center,243,Poughkeepsie,NY
 Millard Fillmore Suburban Hospital,0,Williamsville,NY
 Mohawk Valley Psychiatric Center,77,Utica,NY
 Monroe Community Hospital,571,Rochester,NY
-Montefiore Hospital- Moses Campus,1,530,Bronx,NY
+Montefiore Hospital Moses Campus,1530,Bronx,NY
 Montefiore Mount Vernon Hospital,85,Mount Vernon,NY
 Montefiore New Rochelle Hospital,301,New Rochelle,NY
 Montefiore Nyack Hospital,251,Nyack,NY
@@ -4186,43 +4186,43 @@ Mount Sinai West,0,New York,NY
 MVHS -  St. Luke's Campus,243,Utica,NY
 MVHS - Faxton Campus,0,Utica,NY
 MVHS - St. Elizabeth Campus,201,Utica,NY
-Nassau University Medical Center,1,119,East Meadow,NY
+Nassau University Medical Center,1119,East Meadow,NY
 Nathan Littauer Hospital ,142,Gloversville,NY
-New York City Children's Center - Queens Campus,0,Bellerose,NY
+New York City Children's Center Queens Campus,0,Bellerose,NY
 New York City Children's Center Bronx Campus,0,Bronx,NY
-New York Community Hospital ,134,Brooklyn,NY
-New York Presbyterian/Columbia University Irving Medical Center,0,New York,NY
-New York Presbyterian/Weill Cornell Medical Center,2,670,New York,NY
+New York Community Hospital,134,Brooklyn,NY
+New York Presbyterian Columbia University Irving Medical Center,0,New York,NY
+New York Presbyterian Weill Cornell Medical Center,2670,New York,NY
 New York State Psychiatric Institute,21,New York,NY
 Newark-Wayne Community Hospital,297,Newark,NY
-NewYork-Presbyterian  Queens Hospital,492,Flushing,NY
-NewYork-Presbyterian Allen Hospital ,0,New York,NY
-NewYork-Presbyterian Brooklyn Methodist Hospital,591,Brooklyn,NY
-NewYork-Presbyterian Hudson Valley Hospital,128,Cortlandt Manor,NY
-NewYork-Presbyterian Lawrence Hospital ,208,Bronxville,NY
-NewYork-Presbyterian Morgan Stanley Children's Hospital,0,New York,NY
-NewYork-Presbyterian Westchester Behavioral Health Center,0,White Plains,NY
-NewYork-Presbyterian, Lower Manhattan Hospital,132,New York,NY
+New York Presbyterian Queens Hospital,492,Flushing,NY
+New York Presbyterian Allen Hospital ,0,New York,NY
+New York Presbyterian Brooklyn Methodist Hospital,591,Brooklyn,NY
+New York Presbyterian Hudson Valley Hospital,128,Cortlandt Manor,NY
+New York Presbyterian Lawrence Hospital,208,Bronxville,NY
+New York Presbyterian Morgan Stanley Children's Hospital,0,New York,NY
+New York Presbyterian Westchester Behavioral Health Center,0,White Plains,NY
+New York Presbyterian Lower Manhattan Hospital,132,New York,NY
 Niagara Falls Memorial Medical Center,133,Niagara Falls,NY
 North Shore University Hospital,802,Manhasset,NY
 Northern Dutchess Hospital,84,Rhinebeck,NY
 Northern Westchester Hospital,195,Mount Kisco,NY
 Northport VA Medical Center,0,Northport,NY
-NYC Health + Hospitals Bellevue,912,New York,NY
-NYC Health + Hospitals Carter ,365,New York,NY
-NYC Health + Hospitals Coney Island ,371,Brooklyn,NY
-NYC Health + Hospitals Elmhurst ,500,Elmhurst,NY
-NYC Health + Hospitals Harlem ,282,New York,NY
-NYC Health + Hospitals Jacobi ,439,Bronx,NY
-NYC Health + Hospitals Kings County ,634,Brooklyn,NY
-NYC Health + Hospitals Lincoln,347,Bronx,NY
-NYC Health + Hospitals Metropolitan,338,New York,NY
-NYC Health + Hospitals North Central Bronx ,200,Bronx,NY
-NYC Health + Hospitals Queens,253,Jamaica,NY
-NYC Health + Hospitals Woodhull ,371,Brooklyn,NY
-NYU Langone Hospital - Brooklyn,388,Brooklyn,NY
+NYC Health Hospitals Bellevue,912,New York,NY
+NYC Health Hospitals Carter ,365,New York,NY
+NYC Health Hospitals Coney Island ,371,Brooklyn,NY
+NYC Health Hospitals Elmhurst ,500,Elmhurst,NY
+NYC Health Hospitals Harlem ,282,New York,NY
+NYC Health Hospitals Jacobi ,439,Bronx,NY
+NYC Health Hospitals Kings County ,634,Brooklyn,NY
+NYC Health Hospitals Lincoln,347,Bronx,NY
+NYC Health Hospitals Metropolitan,338,New York,NY
+NYC Health Hospitals North Central Bronx ,200,Bronx,NY
+NYC Health Hospitals Queens,253,Jamaica,NY
+NYC Health Hospitals Woodhull ,371,Brooklyn,NY
+NYU Langone Hospital Brooklyn,388,Brooklyn,NY
 NYU Langone Orthopedic Hospital,160,New York,NY
-NYU Langone Tisch Hospital,1,629,New York,NY
+NYU Langone Tisch Hospital,1629,New York,NY
 NYU Winthrop Hospital ,511,Mineola,NY
 O'Connor Hospital,16,Delhi,NY
 Olean General Hospital,388,Olean,NY
@@ -4285,7 +4285,7 @@ Syracuse VA Medical Center,0,Syracuse,NY
 The Brookdale University Hospital and Medical Center,812,Brooklyn,NY
 The Brooklyn Hospital Center,282,Brooklyn,NY
 The Children's Hospital at Montefiore,0,Bronx,NY
-The Mount Sinai Hospital,1,133,New York,NY
+The Mount Sinai Hospital,1133,New York,NY
 The New York Eye and Ear Infirmary,17,New York,NY
 The Rockefeller University Hospital,0,New York,NY
 The University of Vermont Health Network Champlain Valley Physicians Hospital ,354,Plattsburgh,NY
@@ -4351,7 +4351,7 @@ CarolinaEast Medical Center,307,New Bern,NC
 Carolinas ContinueCARE Hospital at Pineville,40,Charlotte,NC
 Carolinas ContinueCARE Hospital at University,26,Charlotte,NC
 Carolinas HealthCare System - Blue Ridge,156,Morgantown,NC
-Carolinas Medical Center,1,269,Charlotte,NC
+Carolinas Medical Center,1269,Charlotte,NC
 Carolinas Psychiatry and Behavioral Wellness,0,Davidson ,NC
 Carolinas Rehabilitation - Mount Holly,0,Belmont,NC
 Carolinas Rehabilitation - NorthEast,0,Concord,NC
@@ -4364,7 +4364,7 @@ Central Carolina Hospital,127,Sanford,NC
 Central Harnett Hospital,0,Lillington ,NC
 Central Prison Hospital,0,Raleigh,NC
 Central Regional Hospital,338,Butner,NC
-Charles A. Cannon, Jr. Memorial Hospital,31,Linville,NC
+Charles A. Cannon Jr. Memorial Hospital,31,Linville,NC
 Charles George VA Medical Center - Asheville NC,0,Asheville,NC
 Chatham Hospital,25,Siler City,NC
 Cherokee Indian Hospital,20,Cherokee,NC
@@ -4471,7 +4471,7 @@ Vidant Edgecombe Hospital,117,Tarboro,NC
 Vidant Medical Center,974,Greenville,NC
 Vidant North Hospital,124,Roanoke Rapids,NC
 Vidant Roanoke-Chowan Hospital,98,Ahoskie,NC
-W. G. (Bill) Hefner VA Medical Center - Salisbury, NC,0,Salisbury,NC
+W. G. Bill Hefner VA Medical Center Salisbury,0,Salisbury,NC
 Wake Forest Baptist Health - Wilkes  Medical Center,87,North Wilkesboro,NC
 Wake Forest Baptist Health -High Point Medical Center,304,High Point,NC
 Wake Forest Baptist Medical Center,877,Winston-Salem,NC
@@ -4586,7 +4586,7 @@ Cleveland Clinic Lutheran Hospital,201,Cleveland,OH
 Cleveland Clinic Medina Hospital,143,Medina,OH
 Cleveland Clinic Mercy Hospital,338,Canton,OH
 Cleveland Clinic Rehabilitation Hospital Edwin Shaw,0,Copley,OH
-Cleveland Clinic Rehabilitation Hospital, Avon,180,Avon,OH
+Cleveland Clinic Rehabilitation Hospital Avon,180,Avon,OH
 Cleveland Clinic Union Hospital,138,Dover,OH
 Cleveland VA Medical Center,0,Cleveland,OH
 Clinton Memorial Hospital,75,Wilmington,OH
@@ -4695,7 +4695,7 @@ Ohio Hospital for Psychiatry,130,Columbus,OH
 Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital,344,Columbus,OH
 Ohio State University Harding Hospital,0,Columbus,OH
 Ohio State University Hospital East,174,Columbus,OH
-Ohio State University Wexner Medical Center,1,133,Columbus,OH
+Ohio State University Wexner Medical Center,1133,Columbus,OH
 Ohio State's Richard M. Ross Heart Hospital,0,Columbus,OH
 Ohio Valley Surgical Hospital,24,Springfield,OH
 OhioHealth Doctors Hospital ,171,Columbus,OH
@@ -4760,7 +4760,7 @@ Sycamore Medical Center,168,Miamisburg,OH
 The Bellevue Hospital,50,Bellevue,OH
 The Children's Hospital for Rehabilitation at the Cleveland Clinic,0,Cleveland,OH
 The Christ Hospital ,538,Cincinnati,OH
-The Cleveland Clinic,1,310,Cleveland,OH
+The Cleveland Clinic,1310,Cleveland,OH
 The Jewish Hospital - Mercy Health,184,Cincinnati,OH
 The Surgical Hospital at Southwoods,24,Boardman,OH
 The University of Toledo Medical Center,246,Toledo,OH
@@ -4918,7 +4918,7 @@ Okemah Creek Nation Community Hospital,25,Okemah,OK
 Oklahoma Children's Hospital,0,Oklahoma City,OK
 Oklahoma City VA Medical Center,0,Oklahoma City,OK
 Oklahoma Forensic Center ,0,Vinita,OK
-Oklahoma Heart Hospital North,28,401,Oklahoma City,OK
+Oklahoma Heart Hospital North,28401,Oklahoma City,OK
 Oklahoma Heart Hospital South,44,Oklahoma City,OK
 Oklahoma Heart Institute at Hillcrest Medical Center,0,Tulsa,OK
 Oklahoma Spine Hospital,23,Oklahoma City,OK
@@ -5155,7 +5155,7 @@ Horsham Clinic,206,Ambler,PA
 Hospital of the University of Pennsylvania,806,Philadelphia,PA
 Huntington Creek Recovery Center,0,Shickshinny,PA
 Indiana Regional Medical Center,142,Indiana,PA
-James E. Van Zandt VA Medical Center - Altoona, PA,0,Altoona,PA
+James E. Van Zandt VA Medical Center Altoona,0,Altoona,PA
 Jefferson Bucks Hospital ,0,Langhorne,PA
 Jefferson Frankford Hospital,0,Philadelphia,PA
 Jefferson Hospital ,333,Jefferson Hills,PA
@@ -5174,10 +5174,10 @@ Lancaster General Hospital,581,Lancaster,PA
 Lancaster Rehabilitation Hospital,59,Lancaster,PA
 Lankenau Medical Center,370,Wynnewood,PA
 Lebanon VA Medical Center,0,Lebanon,PA
-Lehigh Valley Hospital - Cedar Crest,1,201,Allentown,PA
-Lehigh Valley Hospital - Muhlenberg,238,Bethlehem,PA
-Lehigh Valley Hospital - Pocono,249,East Stroudsburg,PA
-Lehigh Valley Hospital - Schuylkill E. Norwegian Street,129,Pottsville,PA
+Lehigh Valley Hospital Cedar Crest,1201,Allentown,PA
+Lehigh Valley Hospital Muhlenberg,238,Bethlehem,PA
+Lehigh Valley Hospital Pocono,249,East Stroudsburg,PA
+Lehigh Valley Hospital Schuylkill E. Norwegian Street,129,Pottsville,PA
 Lehigh Valley Hospital-Hazleton,138,Hazleton,PA
 Lehigh Valley Hospital-Schuylkill S. Jackson Street,186,Pottsville,PA
 Livengrin Foundation,0,Bensalem,PA
@@ -5189,7 +5189,7 @@ Mercy Catholic Medical Center - Mercy Philadelphia Campus,0,Philadelphia,PA
 Millcreek Community Hospital,167,Erie,PA
 Milton S. Hershey Medical Center,548,Hershey,PA
 Monongahela Valley Hospital ,153,Monongahela,PA
-Montgomery County Emergency Service, Inc.,73,Norristown,PA
+Montgomery County Emergency Service Inc.,73,Norristown,PA
 Moses Taylor Hospital,183,Scranton,PA
 MossRehab at Doylestown Hospital ,0,Doylestown,PA
 MossRehab at Einstein Philadelphia ,0,Philadelphia ,PA
@@ -5290,7 +5290,7 @@ UPMC Passavant - McCandless,394,Pittsburgh,PA
 UPMC Pinnacle Community Osteopathic Campus,114,Harrisburg,PA
 UPMC Pinnacle Harrisburg,493,Harrisburg,PA
 UPMC Pinnacle West Shore,0,Mechanicsburg,PA
-UPMC Presbyterian,1,438,Pittsburgh,PA
+UPMC Presbyterian,1438,Pittsburgh,PA
 UPMC Saint Margaret,215,Pittsburgh,PA
 UPMC Shadyside,433,Pittsburgh,PA
 UPMC Somerset,99,Somerset,PA
@@ -5586,7 +5586,7 @@ Methodist Le Bonheur Germantown Hospital,0,Germantown,TN
 Methodist Medical Center of Oak Ridge,204,Oak Ridge,TN
 Methodist North Hospital,0,Memphis,TN
 Methodist South Hospital,0,Memphis,TN
-Methodist University Hospital,1,362,Memphis,TN
+Methodist University Hospital,1362,Memphis,TN
 Middle Tennessee Mental Health Institute,207,Nashville,TN
 Milan Hospital,47,Milan,TN
 Moccasin Bend Mental Health Institute,165,Chattanooga,TN
@@ -5665,7 +5665,7 @@ Vanderbilt Bedford Hospital,49,Shelbyville,TN
 Vanderbilt Behavioral Health,0,Nashville,TN
 Vanderbilt Stallworth Rehabilitation Hospital,80,Nashville,TN
 Vanderbilt Tullahoma-Harton Hospital,76,Tullahoma,TN
-Vanderbilt University Medical Center,1,162,Nashville,TN
+Vanderbilt University Medical Center,1162,Nashville,TN
 Vanderbilt Wilson County Hospital,245,Lebanon,TN
 Vanderbilt Wilson County Hospital McFarland,0,Lebanon,TN
 Village Behavioral Health ,0,Louisville,TN
@@ -5724,7 +5724,7 @@ Baptist Emergency Hospital Schertz,0,Schertz,TX
 Baptist Emergency Hospital Westover Hills,0,San Antonio,TX
 Baptist Emergency Hospital- Thousand Oaks,50,San Antonio,TX
 Baptist Hospitals of Southeast Texas,405,Beaumont,TX
-Baptist Medical Center,1,564,San Antonio,TX
+Baptist Medical Center,1564,San Antonio,TX
 Baylor Scott & White  All Saints Medical Center,377,Fort Worth,TX
 Baylor Scott & White Continuing Care Hospital Temple,48,Temple,TX
 Baylor Scott & White Emergency Hospital - Colleyville,0,Colleyville,TX
@@ -5972,7 +5972,7 @@ Houston Behavioral Healthcare Hospital,141,Houston,TX
 Houston Methodist Baytown Hospital,215,Baytown,TX
 Houston Methodist Clear Lake Hospital,178,Nassau Bay,TX
 Houston Methodist Continuing Care Hospital,58,Katy,TX
-Houston Methodist Hospital,1,163,Houston,TX
+Houston Methodist Hospital,1163,Houston,TX
 Houston Methodist Sugar Land Hospital,327,Sugar Land,TX
 Houston Methodist The Woodlands Hospital,186,The Woodlands,TX
 Houston Methodist West Hospital ,238,Houston,TX
@@ -6047,7 +6047,7 @@ Medical City McKinney ,234,McKinney,TX
 Medical City Plano,479,Plano,TX
 Medical City Weatherford,82,Weatherford,TX
 Medina Regional Hospital,25,Hondo,TX
-Memorial Hermann - Texas Medical Center,1,014,Houston,TX
+Memorial Hermann Texas Medical Center,1014,Houston,TX
 Memorial Hermann Cypress Hospital,0,Cypress,TX
 Memorial Hermann Greater Heights Hospital,0,Houston,TX
 Memorial Hermann Katy Hospital,208,Katy,TX
@@ -6057,7 +6057,7 @@ Memorial Hermann Orthopedic & Spine Hospital,64,Bellaire,TX
 Memorial Hermann Pearland Hospital,0,Pearland ,TX
 Memorial Hermann Rehabilitation Hospital - Katy,35,Katy,TX
 Memorial Hermann Southeast Hospital,0,Houston,TX
-Memorial Hermann Southwest Hospital,1,388,Houston,TX
+Memorial Hermann Southwest Hospital,1388,Houston,TX
 Memorial Hermann Sugar Land Hospital,145,Sugar Land,TX
 Memorial Hermann Surgical Hospital Kingwood,10,Kingwood,TX
 Memorial Hermann Surgical Hospital-First Colony,6,Sugar Land,TX
@@ -6072,7 +6072,7 @@ Methodist Ambulatory Surgery Hospital ,22,San Antonio,TX
 Methodist Charlton Medical Center,317,Dallas,TX
 Methodist Children's Hospital,198,San Antonio,TX
 Methodist Dallas Medical Center,378,Dallas,TX
-Methodist Hospital,1,665,San Antonio,TX
+Methodist Hospital,1665,San Antonio,TX
 Methodist Hospital for Surgery,32,Addison,TX
 Methodist Hospital Northeast,116,Live Oak,TX
 Methodist Hospital South,67,Jourdanton,TX
@@ -6748,7 +6748,7 @@ Webster County Memorial Hospital,25,Webster Springs,WV
 Weirton Medical Center,167,Weirton,WV
 Welch Community Hospital,108,Welch,WV
 Wetzel County Hospital,48,New Martinsville,WV
-William R. Sharpe, Jr. Hospital,150,Weston,WV
+William R. Sharpe Jr. Hospital,150,Weston,WV
 WVU Medicine Children's,0,Morgantown,WV
 WVU Medicine Wheeling Hospital,367,Wheeling,WV
  Ascension Columbia Saint Mary's Hospital Ozaukee,121,Mequon,WI
