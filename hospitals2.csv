@@ -1,3 +1,4 @@
+name,beds,city,state
 RMC Stringfellow Memorial Hospital,125,Anniston,AL
 Andalusia Health,83,Andalusia,AL
 Athens-Limestone Hospital,66,Athens,AL
@@ -2995,7 +2996,7 @@ Battle Creek VA Medical Center,0,Battle Creek,MI
 Beaumont Hospital Dearborn,567,Dearborn,MI
 Beaumont Hospital Farmington Hills,301,Farmington Hills,MI
 Beaumont Hospital Grosse Pointe,266,Grosse Pointe,MI
-Beaumont Hospital Royal Oak,1,098,Royal Oak,MI
+Beaumont Hospital Royal Oak,1098,Royal Oak,MI
 Beaumont Hospital Taylor,180,Taylor,MI
 Beaumont Hospital Trenton,193,Trenton,MI
 Beaumont Hospital Troy,520,Troy,MI
